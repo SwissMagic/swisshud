@@ -1,0 +1,3 @@
+in the 'scripts' folder rename which crosshair you would like to use to "crosshair", hud_reloadscheme in game to update the hud
+
+for example I rename the "white ring crosshair" file to just "crosshair" to use it, you can also edit the crosshair file and customize color and stuff

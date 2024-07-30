@@ -1,0 +1,4 @@
+cl_crosshair_red 255
+cl_crosshair_green 255
+cl_crosshair_blue 255
+cl_crosshair_scale 20
